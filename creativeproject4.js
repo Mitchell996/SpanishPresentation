@@ -1,63 +1,63 @@
  window.onload=function(){
       var quiz = {
-        title: 'La prueba de Correr',
+        title: 'Prueba de equivalentes de \“to  run\”',
         questions: [
           {
-            text: "Soy Mitt Romney y \" \" senador de Utah.",
+            text: "1. Soy Mitt Romney y \" \" senador de Utah.  -I’m running for this office.",
             responses: [
-              {text: 'estoy corriendo'}, 
+              {text: 'estoy corriendo por'}, 
               {text: 'aspiro a', correct: true}, 
             ]
           }, {
-            text: "La salsa es tan picante que le comienza \" \" la nariz.",
+            text: "2. La salsa es tan picante que su nariz \“he has a running nose\”.",
             responses: [
               {text: 'gotear', correct: true}, 
               {text: 'correr'},
             ]
           }, {
-            text: "Ayer, \" \" mi amigo que no he visto hace mucho." ,
+            text: "3. Ayer, \“I ran into my friend who I haven’t seen in a while\”" ,
             responses: [
               {text: 'me gotee con'},
-              {text: 'me tropeze con', correct: true},
+              {text: 'me tropezé con', correct: true},
             ]
           }, {
-            text: "Solo Superman puede \" \" tan rapidamente como un tren.",
+            text: "4. Solo Superman puede \“to run\”  rápidamente como un tren.",
             responses: [
               {text: 'postularse'},
               {text: 'correr', correct: true},
             ]
           }, {
-            text: "Su refrigerador esta \" \"?",
+            text: "5. Señora disculpe \“is your fridge running\”",
             responses: [
               {text: 'corriendo'}, 
               {text: 'funcionando', correct: true},
             ]
           }, {
-            text: "El el evento que mi amigo y yo \" \" empieza hoy.",
+            text: "6. Mi amigo y yo \“are running an event\”",
             responses: [
               {text: 'dirigimos', correct: true}, 
               {text: 'tropezamos'},
             ]
           }, {
-            text: "Los colores \" \" cuando se mezcian con agua.",
+            text: "7. Si cuando lavo la ropa blanca pongo una media, calcetín rojo entonces el color \“runs\”.",
             responses: [
-              {text: 'se corren', correct: true},
-              {text: 'se extienden'},
+              {text: 'se corre', correct: true},
+              {text: 'se extiende'},
             ]
           }, {
-            text: "La liebre \" \" mas rapido que el tortuga.",
+            text: "8. La liebre \“runs\” más rápido que la tortuga.",
             responses: [
               {text: 'corriendo'}, 
               {text: 'corre', correct: true},
             ]
           }, {
-            text: "Los limites de la ciudad \" \" desde el rio hasta las montanas.",
+            text: "9. Los límites de la cuidad \"run\" desde el río hasta las montañas.",
             responses: [
               {text: 'corren'},
               {text: 'se extienden', correct: true},
             ]
           }, {
-            text: "Ese transbordador \" \" hasta Palenque.",
+            text: "10. Ese transbordador \"runs \" hasta Palenque.",
             responses: [
               {text: 'corre'}, 
               {text: 'va', correct: true},
